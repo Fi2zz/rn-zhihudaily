@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0"
+  },
+  "name": "rn-zhihu-daily",
+  "displayName": "知乎日报"
+}
